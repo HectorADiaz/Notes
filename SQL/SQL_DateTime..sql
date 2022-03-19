@@ -1,0 +1,1 @@
+getdate()  => para datetime

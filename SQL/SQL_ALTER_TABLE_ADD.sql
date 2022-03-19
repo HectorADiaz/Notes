@@ -1,0 +1,1 @@
+alter table cliente add `estado` TINYINT(1) NOT NULL
